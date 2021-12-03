@@ -1,5 +1,5 @@
 
-# 测试代码
+# test
 
 ---
 ## 1.添加用户和绑定远程仓库
@@ -32,3 +32,5 @@ ssh-keygen -t rsa -C "用户的email"
 
 # 在github上绑定ssh公钥
 ```
+
+![git_command.jpg](git_command.jpg)
